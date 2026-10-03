@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.agent_lifecycle/
+.pytest_cache/
+.coverage
